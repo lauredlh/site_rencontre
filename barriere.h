@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+bonjour
 #define ECRIRE_INT(x) printf("%d\n",x);
 #define ECRIRE_FLOAT(x) printf("%f\n",x);
 #define ECRIRE_MESSAGE(x) printf("%s\n",x);
